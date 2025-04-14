@@ -1,0 +1,26 @@
+Title: Use of AI Tools in Building Real Estate Listing Platform
+
+Objective:
+To use AI tools effectively to build a minimal real estate listing platform using FastAPI (Python) for the backend and React for the frontend.
+
+Tools Used:
+1. ChatGPT (OpenAI)
+2. GitHub Copilot (VS Code extension)
+
+How I Used AI:
+- I used **ChatGPT** to:
+  • Understand the project requirements and break it down into backend/frontend tasks.
+  • Generate FastAPI code for creating, retrieving, and filtering listings.
+  • Create React components like ListingForm.js and Listings.js.
+  • Fix errors like CORS, routing issues, and fetch failures.
+  • Understand npm installation issues and correct directory structure.
+  • Guide on proper folder organization for full-stack development.
+
+- I used **GitHub Copilot** to:
+  • Autocomplete common React hooks and fetch logic.
+  • Speed up JSX structure while writing forms and lists.
+  • Generate suggestions for error handling in both backend and frontend.
+
+Outcome:
+Using AI tools saved time in setting up boilerplate code and gave step-by-step debugging support. The final project is a minimal, functional real estate listing platform meeting the given objectives.
+
